@@ -1,0 +1,50 @@
+,news_source,num_articles,avg_rating
+0,The Guardian,21,2.2857142857142856
+1,Reuters,42,2.619047619047619
+2,ABCNews.com,13,2.3846153846153846
+3,Health Day,172,3.11046511627907
+4,NPR,87,3.4482758620689653
+5,Newsweek,26,3.0
+6,USA Today,40,3.475
+7,CNN,51,3.2745098039215685
+8,FoxNews.com,19,2.1052631578947367
+9,Bloomberg,14,3.5714285714285716
+10,Associated Press,69,3.869565217391304
+11,The New York Times,128,3.5546875
+12,The Philadelphia Inquirer,44,3.6363636363636362
+13,Reuters Health,166,3.3132530120481927
+14,STAT,22,3.909090909090909
+15,The Washington Post,56,3.0714285714285716
+16,US News & World Report,17,2.9411764705882355
+17,NBCNews.com,31,3.032258064516129
+18,The Wall Street Journal,106,3.5849056603773586
+19,BuzzFeed,10,3.6
+20,Vox,13,4.461538461538462
+21,Los Angeles Times,97,3.2577319587628866
+22,Time,34,2.676470588235294
+23,The Boston Globe,13,3.3846153846153846
+24,CBSNews.com,29,2.413793103448276
+25,Medical Daily,5,2.2
+26,FiveThirtyEight,4,4.0
+27,Slate,2,2.5
+28,Chicago Tribune,12,2.5
+29,Houston Chronicle,1,2.0
+30,HealthDay,95,2.8105263157894735
+31,TIME,8,2.75
+32,AP Associated Press,33,3.787878787878788
+33,MSNBC,15,2.3333333333333335
+34,CNN Health,17,2.764705882352941
+35,WebMD,136,2.8161764705882355
+36,Star Tribune,1,1.0
+37,Detroit Free Press,1,5.0
+38,The Dallas Morning News,2,1.5
+39,Des Moines Register,1,2.0
+40,The Arizona Republic,1,2.0
+41,The Denver Post,4,1.75
+42,Orlando Sentinel,3,1.6666666666666667
+43,Hartford Courant,1,3.0
+44,The Houston Chronicle,5,2.0
+45,Sun-Sentinel,1,5.0
+46,The Mercury News,1,2.0
+47,Chicago Sun-Times,1,2.0
+48,The Oregonian,1,5.0

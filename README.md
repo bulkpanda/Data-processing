@@ -12,5 +12,5 @@ data sources. <br>
 Python. <br>
 • Practice visual analysis and written communication skills. <br>
 
-<b>Results:</b>
-![GitHub Logo](bad news detection/a1/task4b.png)
+<b>Results:</b><br>
+![GitHub Logo](https://github.com/bulkpanda/Data-processing/blob/master/bad%20news%20detection/a1/task4b.png)

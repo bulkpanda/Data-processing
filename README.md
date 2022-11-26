@@ -12,5 +12,5 @@ data sources. <br>
 Python. <br>
 • Practice visual analysis and written communication skills. <br>
 
-<b>Results:</b><br>
-![GitHub Logo](/bad news detection/a1/task4b.png)
+<b>Results:</b>
+![GitHub Logo](bad news detection/a1/task4b.png)

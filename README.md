@@ -13,4 +13,4 @@ Python. <br>
 • Practice visual analysis and written communication skills. <br>
 
 <b>Results:</b><br>
-![GitHub Logo]/bad%20news%20detection/a1/task4b.png)
+![GitHub Logo](/bad%20news%20detection/a1/task4b.png)
